@@ -88,11 +88,11 @@ footer {
 
 .brand-name {
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 10%;
   color: white;
   font-family: "Times New Roman", serif;
-  font-size: 2.5rem;
+  font-size:3.0rem;
   letter-spacing: 0.12em;
   line-height: 1.2;
 }
