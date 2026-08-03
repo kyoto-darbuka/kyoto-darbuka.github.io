@@ -19,11 +19,6 @@ body {
   position: relative;
 }
 
-.logo {
-  font-size: 3rem;
-  letter-spacing: 0.15em;
-}
-
 .catchcopy {
   background: #183524;
   padding: 80px 20px;
