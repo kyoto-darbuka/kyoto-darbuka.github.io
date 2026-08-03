@@ -81,14 +81,14 @@ footer {
 
 .logo {
   position: absolute;
-  top: 58%;
-  left: 42%;
+  top: 15%;
+  left: 8%;
   transform: translate(-50%, -50%);
 }
 
 .brand-name {
   position: absolute;
-  top: 20%;
+  top: 40%;
   left: 10%;
   color: white;
   font-family: "Times New Roman", serif;
