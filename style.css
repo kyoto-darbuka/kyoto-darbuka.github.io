@@ -188,7 +188,10 @@ footer a {
   letter-spacing: 0.15em;
 }
 .page-text h2 {
+  display: inline-block;
   margin-top: 70px;
   margin-bottom: 20px;
+  padding-bottom: 8px;
   font-weight: normal;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
 }
