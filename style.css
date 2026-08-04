@@ -75,14 +75,14 @@ footer {
   background: #0d1711;
 }
 .logo img {
-  width: 130px;
+  width: 115px;
   height: auto;
 }
 
 .logo {
   position: absolute;
-  top: 40%;
-  left: 25%;
+  top: 42%;
+  left: 23%;
   transform: translate(-50%, -50%);
 }
 
