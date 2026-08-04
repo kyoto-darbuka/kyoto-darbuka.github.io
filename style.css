@@ -228,3 +228,8 @@ footer a {
   align-items: center;
   margin-bottom: 40px;
 }
+.page-text h3 {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
