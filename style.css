@@ -219,3 +219,12 @@ footer a {
   font-size: 1.5rem;
   font-weight: normal;
 }
+.instagram-box,
+.youtube-box {
+  height: 300px;
+  background: #2b3e34;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
