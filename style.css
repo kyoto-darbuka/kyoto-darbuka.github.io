@@ -187,3 +187,8 @@ footer a {
   font-size: 1.2rem;
   letter-spacing: 0.15em;
 }
+.page-text h2 {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  font-weight: normal;
+}
