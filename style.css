@@ -36,6 +36,13 @@ body {
   justify-content: center;
   align-items: center;
   background: #24372c;
+  overflow: hidden;
+}
+
+.back-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .introduction {
