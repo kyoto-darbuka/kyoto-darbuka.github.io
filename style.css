@@ -150,13 +150,15 @@ footer {
 }
 
 .page-photo {
-  height: 280px;
+  height: 320px;
   margin: 50px 30px;
   background: #2b3e34;
 
   display: flex;
   justify-content: center;
   align-items: center;
+
+  overflow: hidden;
 }
 
 .page-text {
