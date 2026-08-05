@@ -149,15 +149,6 @@ footer {
   margin: 0;
 }
 
-.page-photo {
-  height: 320px;
-  margin: 50px 30px;
-  background: #2b3e34;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
   overflow: hidden;
 }
 
@@ -261,4 +252,8 @@ footer a {
 .contact-note {
   font-size: 0.9rem;
   opacity: 0.75;
+}
+.page-photo img {
+  max-width: 100%;
+  max-height: 100%;
 }
